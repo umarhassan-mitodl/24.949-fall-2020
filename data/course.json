@@ -1,0 +1,42 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics"
+    ]
+  ],
+  "legacy_uid": "e531eefe-4383-156e-3675-a48f2142bc6e",
+  "instructors": {
+    "content": [
+      "4b990e6c-8fc5-fec0-0dd0-9bdca4434254"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bb9bdcae-9ef1-8d7f-943e-dabec4a2d0d9",
+    "website": "24-949-language-acquisition-i-fall-2020"
+  },
+  "course_title": "Language Acquisition I",
+  "course_description": "This course focuses on the process by which native speakers of a language acquire the ability to speak and understand that language. It covers some of the major results in the study of first-language acquisition, concentrating on morpho-syntax, semantics, and pragmatics. The findings primarily come from English, but cross-linguistic differences in the phenomena of interest and corresponding differences in acquisition patterns are considered where appropriate. Of interest throughout is how these developmental data inform linguistic theory and/or learnability theory.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.949",
+  "course_image_thumbnail": {
+    "content": "d066919e-1582-be59-5892-45be1a8e7c8f",
+    "website": "24-949-language-acquisition-i-fall-2020"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "495d4994-2a33-4229-8524-ab94cb35ce1a",
+  "site_short_id": "24.949-fall-2020",
+  "site_url_path": "courses/24-949-language-acquisition-i-fall-2020",
+  "title": "Course Metadata"
+}
